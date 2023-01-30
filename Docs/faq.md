@@ -28,7 +28,7 @@
 - No.
 -------
 **I got false banned, what should I do now?**
-- Contact us via Ticket in our [Discord](https://discord.uneasyvanill.com/)
+- Contact us via Ticket in our [Discord](https://discord.uneasyvanilla.com/)
 -------
 **Who are Admin,Mod on the server?**
 - MrEDok - Owner
