@@ -21,3 +21,9 @@
 **Is duping allowed?**
 - **NO.** Except for Carpets, Rails, TNT.
 -------
+**I'm unable to connect to the server**
+- Try to connect to the server using 'play.uneasyvanilla.com' or change your DNS server to 1.1.1.1, 1.0.0.1
+-------
+**Can I use the Netheroof?**
+- No.
+-------
