@@ -106,4 +106,4 @@ Ban durations can vary depending on the severity of the offense, but the list ab
 ------
 ### Appeals:
 If you think that you have been falsely banned immediately open a ticket on our [Discord Server](https://discord.uneasyvanilla.com/) 
-Any Tickets or Bans that is older than 1 week after the ban dats will not be processed.
+Any Tickets or Bans that is older than 1 week after the ban date will not be processed.
