@@ -38,3 +38,4 @@
 -------
 
 # Server Environment Information.
+Server settings for players to look up for farms etc.: These settings/values might change depending on the server loads.
