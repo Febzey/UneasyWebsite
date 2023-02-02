@@ -36,3 +36,5 @@
 - Iberium - Admin
 - Mod, Admin will have **♢** suffix ingame.
 -------
+
+# Server Environment Information.
