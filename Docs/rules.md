@@ -1,4 +1,5 @@
 
+
   
 
 ## General Server Rules
@@ -19,7 +20,7 @@
 	- Using an exploit to gain advantages over other players is NOT allowed.
 	- Using an exploit or mechanic to restrict an account(s)/player(s) from playing the game.
 	- Only type of duping that is allowed on the server are TNTs, Carpets, Rails.
-## Allowed Mods. [This list is still a work in progress.]
+## Allowed Client and Mods.
 A list of officially allowed client modifications that you are allowed to use on the server without being banned/punished.
 This list can be considered "incomplete" since there are a lot of mods for Minecraft but you can always ask us on the Discord Server for allowed mods or mods that should be on the list.
 
@@ -29,6 +30,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
  - [Fabric Client](https://fabricmc.net/use/installer/)
  - [Quilt Client](https://quiltmc.org/en/install/)
  - [Forge Client](https://files.minecraftforge.net/net/minecraftforge/forge/)
+ - [Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) **(Only for AFK)**
 
 ------
 
