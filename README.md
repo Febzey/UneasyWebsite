@@ -5,7 +5,7 @@ Welcome to the Github repository for Uneasy Network. Here you can find informati
 
 ## Getting Started
 
-Work in progress
+Work in progress...
 
 #### Quick navigation
 - [Frequently Asked Questions.](/Docs/faq.md)
