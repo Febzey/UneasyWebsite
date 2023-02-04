@@ -71,6 +71,7 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [Lithium](https://modrinth.com/mod/lithium)
 	- [LazyDFU](https://modrinth.com/mod/lazydfu)
 	- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) **(No EasyPlace)**
+	- [Logical Zoom](https://modrinth.com/mod/logical-zoom)
 - #### M
 	- [Mod Menu](https://modrinth.com/mod/modmenu)
 	- [MiniHUD](https://modrinth.com/mod/modmenu)
