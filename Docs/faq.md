@@ -1,4 +1,5 @@
 
+
 # Frequently Asked Questions.
 
 #### What's the server IP?
@@ -37,5 +38,59 @@
 - Mod, Admin will have **♢** suffix ingame.
 -------
 
-# Server Environment Information.
-Server settings for players to look up for farms etc.: These settings/values might change depending on the server loads.
+
+## Server Environment Information.
+
+#### View/Render distance
+- View-distance: 8
+-------
+
+#### Mobcap
+- Mobcap vary depend on optimization but generally is around the value below.
+- Monster: 15-35
+- Animal: 8-12
+- Villager: Around 140-160 per "base"/View distance.
+-------
+
+#### Tilecap
+- Hopper: 200/chunk
+-------
+
+#### Despawn range
+- Hard: 88
+- Soft: 32
+-------
+
+### Mechanic Informations.
+
+Farms / mechanics that are different from Vanilla.
+
+#### IronFarm / Villager lobotomize
+- Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
+	- Take the following things into consideration when you're designing your farm:
+		- You need to make sure that the villager state switching isn't too fast (Idle, Panic).
+        - Villager need to have atleast 2 block of movable area (AIR BLOCK) to not be lobotomize.
+        - Make sure villager are both standing on a fullblock and block around them are full block for villager to not get lobotomize.
+
+- Trading halls.
+	- Villager Optimization (Required for everyone to do)
+		- Villagers eat up a lot of server resources, which you can help save by optimizing them.
+	- To lobotomize your villagers:
+		- Build a wall around the villager to make them not able to move, pathfind (1x1 Trading hall style)
+	- To Un-lobotomize your villagers:
+		- Make so that the villager are able to move or have atleast 2x1 of movable area.
+-   Schematic for a basic, scalable Iron farm:
+    -   [IronFarm.litematic](https://github.com/UneasyVanilla/UneasyNetwork/raw/main/Docs/resource/IronFarmBaseBuild.litematic)
+-------
+
+#### Phantoms
+- Toggle phantoms on or off with `/togglephantoms` You need to complete the `[Two Birds, One Arrow]` achievement for this command.
+-------
+
+#### Anvils
+- Color renamed items with [MiniMessage format](https://docs.adventure.kyori.net/minimessage/format.html) 
+-------
+
+#### Trident
+- Using riptide enchanted trident with elytra will reduce elytra durability.
+-------
