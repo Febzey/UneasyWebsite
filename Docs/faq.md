@@ -12,7 +12,7 @@
 - Support version 1.19-1.19.3 (**Recommend:** 1.19.3)
 -------
 #### When was this server created?
-- 10th March 2022
+- 10th March 2020
 -------
 #### What is the world size?
 - 60000000 x 60000000
