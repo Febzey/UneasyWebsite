@@ -57,8 +57,8 @@
 -------
 
 #### Despawn range
-- Hard: 88
-- Soft: 32
+- Hard: 72
+- Soft: 30
 -------
 
 ### Mechanic Informations.
