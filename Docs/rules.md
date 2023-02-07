@@ -48,6 +48,7 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [Bobby](https://modrinth.com/mod/bobby)
 	- [Borderless mining](https://modrinth.com/mod/borderless-mining)
 	- [Boosted Brightness](https://modrinth.com/mod/boosted-brightness)
+	- [BerdinskiyBear's Armor HUD](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)
 - #### C
 	- [Clear Hitboxes](https://modrinth.com/mod/clearhitboxes)
 	- [Clear Skies](https://modrinth.com/mod/clear-skies)
@@ -90,6 +91,7 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 	- [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 	- [Shulker Tooltip](https://modrinth.com/mod/shulker-tooltip)
+	- [Simple Armor Hud](https://www.curseforge.com/minecraft/mc-mods/simple-armor-hud)
 - #### W
 	- [WhyMap](https://modrinth.com/mod/whymap)
 - #### X
