@@ -18,7 +18,7 @@
 - 60000000 x 60000000
 -------
 #### Where can I find the server rules?
-- Ingame **`/rules`** command or [here](https://www.uneasyvanilla.com/rules).
+- Ingame **`/rules`** command or [here](rules.md).
 -------
 #### Is duping allowed?
 - **NO.** Except for Carpets, Rails, TNT.
