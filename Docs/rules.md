@@ -42,6 +42,7 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
 	- [AntiGhost](https://modrinth.com/mod/antighost)
 	- [AppleSkin](https://modrinth.com/mod/appleskin)
+	- [Auth Me](https://modrinth.com/mod/auth-me)
 - #### B
 	- [BetterF3](https://modrinth.com/mod/betterf3)
 	- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)
@@ -49,23 +50,30 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [Borderless mining](https://modrinth.com/mod/borderless-mining)
 	- [Boosted Brightness](https://modrinth.com/mod/boosted-brightness)
 	- [BerdinskiyBear's Armor HUD](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)
+	- [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)
+	- [BetterHurtCam](https://modrinth.com/mod/betterhurtcam)
 - #### C
 	- [Clear Hitboxes](https://modrinth.com/mod/clearhitboxes)
 	- [Clear Skies](https://modrinth.com/mod/clear-skies)
 	- [Continuity](https://modrinth.com/mod/continuity)
 	- [Cull Leaves](https://modrinth.com/mod/cull-leaves)
 	- [CustomHud](https://modrinth.com/mod/customhud)
+	- [Continuity](https://modrinth.com/mod/continuity)
 - #### D
 	- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 	- [Durability Viewer](https://modrinth.com/mod/durabilityviewer)
 	- [Don't Clear Chat History](https://modrinth.com/mod/dcch)
+	- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - #### F
 	- [Fabric API](https://modrinth.com/mod/fabric-api)
 	- [FerriteCore](https://modrinth.com/mod/ferrite-core)
 	- [Force close loading screen](https://modrinth.com/mod/forcecloseworldloadingscreen)
 	- [FastOpenLinksAndFolders](https://modrinth.com/mod/fastopenlinksandfolders)
+	- [FPS - Display](https://modrinth.com/mod/fpsdisplay)
 - #### I
 	- [Iris Shaders](https://modrinth.com/mod/iris)
+	- [Indium](https://modrinth.com/mod/indium)
+	- [Inventory Spam](https://www.curseforge.com/minecraft/mc-mods/inventory-spam)
 - #### K
 	- [Krypton](https://modrinth.com/mod/krypton)
 - #### L
@@ -92,6 +100,8 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)
 	- [Shulker Tooltip](https://modrinth.com/mod/shulker-tooltip)
 	- [Simple Armor Hud](https://www.curseforge.com/minecraft/mc-mods/simple-armor-hud)
+	- [Skin Layers 3D](https://modrinth.com/mod/3dskinlayers)
+	- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
 - #### W
 	- [WhyMap](https://modrinth.com/mod/whymap)
 - #### X
