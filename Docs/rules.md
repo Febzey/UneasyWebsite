@@ -74,6 +74,7 @@ Most mods on this list can be downloaded from [Modrinth](https://modrinth.com/) 
 	- [Iris Shaders](https://modrinth.com/mod/iris)
 	- [Indium](https://modrinth.com/mod/indium)
 	- [Inventory Spam](https://www.curseforge.com/minecraft/mc-mods/inventory-spam)
+	- [ItemScroller](https://github.com/hd926/itemscroller/releases) **(UneasyVanilla Version)**
 - #### K
 	- [Krypton](https://modrinth.com/mod/krypton)
 - #### L
