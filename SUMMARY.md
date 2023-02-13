@@ -4,4 +4,4 @@
 
 ## Docs
 
-* [ℹ Frequently Asked Questions.](docs/frequently-asked-questions..md)
+* [ℹ Frequently Asked Questions](docs/frequently-asked-questions.md)

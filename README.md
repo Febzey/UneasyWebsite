@@ -16,6 +16,6 @@ We're not anarchy, rather more lawless than anything else. You can do whatever y
 
 ## Quick links
 
-{% content-ref url="docs/frequently-asked-questions..md" %}
-[frequently-asked-questions..md](docs/frequently-asked-questions..md)
+{% content-ref url="docs/frequently-asked-questions.md" %}
+[frequently-asked-questions.md](docs/frequently-asked-questions.md)
 {% endcontent-ref %}
