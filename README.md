@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Welcome to UneasyVanilla!
 
 {% hint style="warning" %}
