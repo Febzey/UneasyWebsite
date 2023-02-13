@@ -1,11 +1,7 @@
----
-layout: landing
----
-
 # Welcome to UneasyVanilla!
 
 {% hint style="warning" %}
-Please note that this page is a work in progress and may be incomplete. If you find any missing information or have questions, please contact us on our Discord channel and we'll be happy to assist you.
+Please note that this page is a work in progress and may be incomplete. If you find any missing information or have questions, please contact us on our [Discord](https://discord.uneasyvanilla.com/) and we'll be happy to assist you.
 {% endhint %}
 
 ## Overview
@@ -19,3 +15,4 @@ We're not anarchy, rather more lawless than anything else. You can do whatever y
 {% content-ref url="docs/frequently-asked-questions.md" %}
 [frequently-asked-questions.md](docs/frequently-asked-questions.md)
 {% endcontent-ref %}
+
