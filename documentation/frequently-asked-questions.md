@@ -45,6 +45,11 @@ We recommend that you join the server with Minecraft version 1.19.3
 
 * Contact us via a ticket in our [Discord](https://discord.uneasyvanilla.com/)
 
+### Where do I create a suggestion for the server?
+
+* You can create a new Suggestion, Issue request at [Github Ticket](https://github.com/UneasyVanilla/UneasyNetwork/issues/new/choose).
+  * Choose between Bugs or Feature Request.
+
 ### **Who are the staff on the server?**
 
 * MrEDok - Owner
