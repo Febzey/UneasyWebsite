@@ -20,3 +20,7 @@ We're not anarchy, rather more lawless than anything else. You can do whatever y
 [frequently-asked-questions.md](docs/frequently-asked-questions.md)
 {% endcontent-ref %}
 
+{% content-ref url="docs/general-server-rules.md" %}
+[general-server-rules.md](docs/general-server-rules.md)
+{% endcontent-ref %}
+
