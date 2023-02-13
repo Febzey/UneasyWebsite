@@ -76,6 +76,10 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Don't Clear Chat History](https://modrinth.com/mod/dcch)
 * [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 
+#### E
+
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+
 #### F
 
 * [Fabric API](https://modrinth.com/mod/fabric-api)
