@@ -12,11 +12,11 @@ We're not anarchy, rather more lawless than anything else. You can do whatever y
 
 ## Quick links
 
-{% content-ref url="docs/frequently-asked-questions.md" %}
-[frequently-asked-questions.md](docs/frequently-asked-questions.md)
+{% content-ref url="documentation/frequently-asked-questions.md" %}
+[frequently-asked-questions.md](documentation/frequently-asked-questions.md)
 {% endcontent-ref %}
 
-{% content-ref url="docs/general-server-rules.md" %}
-[general-server-rules.md](docs/general-server-rules.md)
+{% content-ref url="documentation/general-server-rules.md" %}
+[general-server-rules.md](documentation/general-server-rules.md)
 {% endcontent-ref %}
 

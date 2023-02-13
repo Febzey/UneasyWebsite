@@ -2,7 +2,7 @@
 
 * [Welcome to UneasyVanilla!](README.md)
 
-## Docs
+## 📖 Documentation
 
-* [ℹ Frequently Asked Questions](docs/frequently-asked-questions.md)
-* [⚒ General Server Rules](docs/general-server-rules.md)
+* [ℹ Frequently Asked Questions](documentation/frequently-asked-questions.md)
+* [⚒ General Server Rules](documentation/general-server-rules.md)
