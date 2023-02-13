@@ -5,3 +5,4 @@
 ## Docs
 
 * [ℹ Frequently Asked Questions](docs/frequently-asked-questions.md)
+* [⚒ General Server Rules](docs/general-server-rules.md)
