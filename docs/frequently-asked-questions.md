@@ -1,5 +1,7 @@
 # ℹ Frequently Asked Questions
 
+## Server General FAQ
+
 #### What's the server IP?
 
 * UneasyVanilla.com - Direct connect to the Vanilla server.
