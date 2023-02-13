@@ -1,30 +1,27 @@
 # ℹ Frequently Asked Questions
 
-## Server General FAQ
+{% hint style="warning" %}
+Please note that this page is a work in progress and may be incomplete. If you find any missing information or have questions, please contact us on our [Discord](https://discord.uneasyvanilla.com/) and we'll be happy to assist you.
+{% endhint %}
 
-#### What's the server IP?
+### General Questions
 
-* UneasyVanilla.com - Direct connect to the Vanilla server.
-* Play.UneasyVanilla.com - Direct connect to the Vanilla server.
-* Queue.UneasyVanilla.com - Direct connect to the Queue server.
+#### What the server IP?
 
-#### **What version does the server support?**
+* UneasyVanilla.com - Direct connect to vanilla server.
+* Play.UneasyVanilla.com - Direct connect to vanilla server.
+* Queue.UneasyVanilla.com - Direct connect to queue server.
 
-* The server is running on version 1.19.3.
-* We support version 1.19-1.19.3 (**Recommended:** 1.19.3)
+#### What version does the server support?
 
-#### **When was this server created?**
+* The server is running on version 1.19.3
+* We support minecraft version 1.19-1.19.3
+
+{% hint style="danger" %}
+We recommend that you join the server with Minecraft version 1.19.3
+{% endhint %}
+
+#### When was the server created?
 
 * 10th of March 2020
 
-#### **What is the world size?**
-
-* 60000000 x 60000000
-
-#### Is duping allowed?
-
-* **NO.** Except for Carpets, Rails and TNT.
-
-#### I'm unable to connect to the server.
-
-* Try to connect to the server using 'play.uneasyvanilla.com' or change your DNS server to 1.1.1.1, 1.0.0.1
