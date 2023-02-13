@@ -27,7 +27,7 @@ We recommend that you join the server with Minecraft version 1.19.3
 
 ### Where can I find the server rules?
 
-* Ingame <mark style="color:yellow;">/rules</mark>
+* Ingame <mark style="color:yellow;">/rules</mark> and <mark style="color:yellow;"></mark> [General Server Rules](general-server-rules.md)
 
 ### Is duping allowed?
 
@@ -44,6 +44,11 @@ We recommend that you join the server with Minecraft version 1.19.3
 ### **I got false banned, what should I do now?**
 
 * Contact us via a ticket in our [Discord](https://discord.uneasyvanilla.com/)
+
+### Where do I create a suggestion for the server?
+
+* You can create a new Suggestion, Issue request at [Github Ticket](https://github.com/UneasyVanilla/UneasyNetwork/issues/new/choose).
+  * Choose between Bugs or Feature Request.
 
 ### **Who are the staff on the server?**
 
