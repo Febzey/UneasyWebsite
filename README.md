@@ -1,6 +1,7 @@
 ---
 cover: .gitbook/assets/Cover_background (1).png
 coverY: 357
+layout: landing
 ---
 
 # Welcome to UneasyVanilla!
