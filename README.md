@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Cover_background (1).png
+coverY: 357
+---
+
 # Welcome to UneasyVanilla!
 
 {% hint style="warning" %}
