@@ -37,7 +37,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Fabric Client](https://fabricmc.net/use/installer/)
 * [Quilt Client](https://quiltmc.org/en/install/)
 * [Forge Client](https://files.minecraftforge.net/net/minecraftforge/forge/)
-* [Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) (Only for AFK)
+* [Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) **(Only for AFK)**
 
 ### Mods
 
