@@ -145,6 +145,10 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) **(Fair play version)**
 
+### Mods Packs
+
+* [Kami Chan Optimized](https://modrinth.com/modpack/kami-chan-optimized)
+
 ### Bans durations
 
 * Rule#1: Permanent.
