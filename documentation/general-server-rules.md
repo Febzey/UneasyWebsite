@@ -79,6 +79,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 #### E
 
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+* [Eating Animation](https://modrinth.com/mod/eating-animation)
 
 #### F
 
@@ -105,11 +106,16 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) **(No EasyPlace)**
 * [Logical Zoom](https://modrinth.com/mod/logical-zoom)
+* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 
 #### M
 
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [MiniHUD](https://modrinth.com/mod/modmenu)
+
+#### N
+
+* [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 
 #### O
 
@@ -144,6 +150,10 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 #### X
 
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) **(Fair play version)**
+
+#### Z
+
+* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### Mods Packs
 
