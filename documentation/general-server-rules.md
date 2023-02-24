@@ -37,6 +37,9 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Fabric Client](https://fabricmc.net/use/installer/)
 * [Quilt Client](https://quiltmc.org/en/install/)
 * [Forge Client](https://files.minecraftforge.net/net/minecraftforge/forge/)
+* [Feather Client](https://feathermc.com/)
+* [Lunar Client](https://www.lunarclient.com/) **(FreeLook, AutoText, Soup/Potion Counter and Schematica must be disabled)**
+* [BadLion Client](https://www.badlion.net/) **(FreeLook, AutoText, Soup/Potion Counter and Schematica must be disabled)**
 * [Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) **(Only for AFK)**
 
 ### Mods
