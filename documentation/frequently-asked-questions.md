@@ -27,7 +27,7 @@ We recommend that you join the server with Minecraft version 1.19.3
 
 #### Where can I find the server rules?
 
-* Ingame <mark style="color:yellow;">/rules</mark> and <mark style="color:yellow;"></mark> [General Server Rules](general-server-rules.md)
+* Ingame <mark style="color:yellow;">/rules</mark> and <mark style="color:yellow;"></mark> [General Server Rules](general-server-rules/)
 
 #### Is duping allowed?
 
