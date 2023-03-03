@@ -126,6 +126,10 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [OptiFine](https://optifine.net/downloads)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 
+#### Q
+
+* [Quiet-Fishing](https://github.com/Craft1x/Quiet-Fishing)
+
 #### P
 
 * [Phosphor](https://modrinth.com/mod/phosphor)
