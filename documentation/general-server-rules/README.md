@@ -17,7 +17,7 @@ Please note that this page is a work in progress and may be incomplete. If you f
    * If what you're doing looks like X-Ray or ESP, We'll treat it as such. For example: composter glitching, pieray, "glitching" player model inside a block in any way to look for underground structures, caves, etc. Appeal reason will not be valid unless there is solid proof on the player side.
 3. No doxxing or real life threatening.
    * Any type of doxxing, threatening of doxxing or using in real life info. Threatening someone, both inside and outside of the UneasyVanilla Minecraft & Discord server should be reported to the admin of that server and action will be taken on both the UneasyVanilla Minecraft and Discord server.
-   * We have a zero tolerance policy on doxxing and real life threatening, breaking this rule will result in a permanent ban from both the UneasyVanilla Minecraft server and Discord server.
+   * We have a zero tolerance policy on doxxing and real life threatening, breaking this rule will result in a permanent ban from both the UneasyVanilla Minecraft server and Discord server. We expect doxxing threats to be reported within 30 days of them happening. Any reports older than one month may not be processed.
 4. No use of exploits or duping.
    * Using an exploit to gain advantages over other players is NOT allowed.
    * Using an exploit or mechanic to restrict an account(s)/player(s) from playing the game.
