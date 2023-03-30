@@ -51,6 +51,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [AntiGhost](https://modrinth.com/mod/antighost)
 * [AppleSkin](https://modrinth.com/mod/appleskin)
 * [Auth Me](https://modrinth.com/mod/auth-me)
+* [Animatica](https://modrinth.com/mod/animatica)
 
 #### B
 
@@ -69,6 +70,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Clear Skies](https://modrinth.com/mod/clear-skies)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [Cull Leaves](https://modrinth.com/mod/cull-leaves)
+* [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [CustomHud](https://modrinth.com/mod/customhud)
 * [Continuity](https://modrinth.com/mod/continuity)
 
@@ -84,6 +86,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 * [Eating Animation](https://modrinth.com/mod/eating-animation)
 * [Essential Mod](https://essential.gg/)
+* [Entity Culling](https://modrinth.com/mod/entityculling)
 
 #### F
 
@@ -116,6 +119,8 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [MiniHUD](https://modrinth.com/mod/modmenu)
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+* [Model Gap Fix](https://modrinth.com/mod/modelfix)
 
 #### N
 
@@ -126,6 +131,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
 * [OptiFine](https://optifine.net/downloads)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
+* [Optigui](https://modrinth.com/mod/optigui)
 
 #### Q
 
@@ -134,6 +140,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 #### P
 
 * [Phosphor](https://modrinth.com/mod/phosphor)
+* [Puzzle](https://modrinth.com/mod/puzzle)
 
 #### R
 
@@ -150,6 +157,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Simple Armor Hud](https://www.curseforge.com/minecraft/mc-mods/simple-armor-hud)
 * [Skin Layers 3D](https://modrinth.com/mod/3dskinlayers)
 * [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
+* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 
 #### W
 
