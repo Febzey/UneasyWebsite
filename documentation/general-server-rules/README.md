@@ -6,6 +6,10 @@ Please note that this page is a work in progress and may be incomplete. If you f
 
 ## Minecraft Server Rules
 
+{% hint style="info" %}
+Information regarding our policies on bans, including ban durations, account sharing, and other related details, please [click on this link](ban-policy.md).
+{% endhint %}
+
 1. No lag machines or deliberate overuse of server resources.
    * Intentionally lagging the server or creating stress on the server and ruins the experience of the Player on the server is NOT allowed.
    * Designing/Building a machine/mechanism in a hugely inefficient manner with intention to cause lag to the server is NOT allowed (This might not result in a ban, but we will inform you of the inefficient and might have you take it down or rebuild it.)
@@ -98,6 +102,8 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [FastOpenLinksAndFolders](https://modrinth.com/mod/fastopenlinksandfolders)
 * [FPS - Display](https://modrinth.com/mod/fpsdisplay)
 
+
+
 #### I
 
 * [Iris Shaders](https://modrinth.com/mod/iris)
@@ -136,14 +142,14 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 * [Optigui](https://modrinth.com/mod/optigui)
 
-#### Q
-
-* [Quiet-Fishing](https://github.com/Craft1x/Quiet-Fishing)
-
 #### P
 
 * [Phosphor](https://modrinth.com/mod/phosphor)
 * [Puzzle](https://modrinth.com/mod/puzzle)
+
+#### Q
+
+* [Quiet-Fishing](https://github.com/Craft1x/Quiet-Fishing)
 
 #### R
 
@@ -162,6 +168,10 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 
+#### T
+
+* [ToolTipFix](https://modrinth.com/mod/tooltipfix)
+
 #### W
 
 * [WhyMap](https://modrinth.com/mod/whymap)
@@ -177,17 +187,3 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 ### Mods Packs
 
 * [Kami Chan Optimized](https://modrinth.com/modpack/kami-chan-optimized)
-
-### Bans durations
-
-* Rule#1: Permanent.
-* Rule#2: 1Month, 6Month, Permanent.
-* Rule#3: Permanent.
-* Rule#4: Permanent.
-* "GrayArea": 1Week, 1Month, 3Month, 6Month, Permanent.
-
-These are case specific and staff will decide when they are appropriate. An example for a gray area ban is using a mod which is not allowed on our mod list. Ban durations can vary depending on the severity of the offense, but the list above will apply to most cases.
-
-### Appeals
-
-If you think that you have been falsely banned, immediately open a ticket on our [Discord ](https://discord.uneasyvanilla.com/)Any Tickets or Bans that are older than 1 week after the ban date will not be processed.
