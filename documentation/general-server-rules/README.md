@@ -73,6 +73,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [CustomHud](https://modrinth.com/mod/customhud)
 * [Continuity](https://modrinth.com/mod/continuity)
+* [Clean F3](https://modrinth.com/mod/clean-f3)
 
 #### D
 
@@ -87,6 +88,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Eating Animation](https://modrinth.com/mod/eating-animation)
 * [Essential Mod](https://essential.gg/)
 * [Entity Culling](https://modrinth.com/mod/entityculling)
+* [Exordium](https://modrinth.com/mod/exordium)
 
 #### F
 
@@ -102,6 +104,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 * [Indium](https://modrinth.com/mod/indium)
 * [Inventory Spam](https://www.curseforge.com/minecraft/mc-mods/inventory-spam)
 * [ItemScroller](https://github.com/hd926/itemscroller/releases) **(UneasyVanilla Version)**
+* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 
 #### K
 
