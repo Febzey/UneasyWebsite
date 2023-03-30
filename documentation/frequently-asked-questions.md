@@ -12,10 +12,9 @@ Please note that this page is a work in progress and may be incomplete. If you f
 * <mark style="color:yellow;">Play.UneasyVanilla.com</mark> - Direct connect to vanilla server.
 * <mark style="color:yellow;">Queue.UneasyVanilla.com</mark> - Direct connect to queue server.
 
-#### What version does the server support?
+#### What version is the server on?
 
-* The server is running on version 1.19.3
-* We support minecraft version 1.19-1.19.3
+* The server is running on version 1.19.4
 
 {% hint style="info" %}
 We recommend that you join the server with Minecraft version 1.19.3
