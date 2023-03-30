@@ -83,6 +83,7 @@ This list can be considered "incomplete" since there are a lot of mods for Minec
 
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 * [Eating Animation](https://modrinth.com/mod/eating-animation)
+* [Essential Mod](https://essential.gg/)
 
 #### F
 
