@@ -72,8 +72,9 @@ This is a list of server configuration options that modify gameplay mechanics in
 
 #### View/Render distance.
 
-* View: 7
-* Render: 5
+* view-distance: 8
+* simulation-distance: 6
+* mob-spawn-range: 5
 
 #### MobCaps
 
@@ -105,11 +106,6 @@ Check below on how to lobotomize.
   * Pathfinding speed.
 * Take the following things into consideration when you're designing your farm(s).
   * Make sure that the villager state switching isn't too fast (Idle <-> Panic) in an ironfarm.
-  * Villager need to have atleast 2 blocks of movable area (Air Block) to not get lobotomize.
-    * Bed, HalfSlab, etc are half block and will cause villager to get lobotoize.
-* Villager Lobotomize.
-  * To lobotomize the villager: Place block around the villager so there no air block in each cardinal directions.
-  * To un-lobotomize the villager: Destroy the block around the villager or one of the cardinal directions.
 
 {% hint style="danger" %}
 Avoid lobotomize the villagers that are part of a farm, such as an iron farm, because it will remove their AI and cause the farm to not work properly.
