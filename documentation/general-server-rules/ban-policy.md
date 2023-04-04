@@ -24,10 +24,10 @@ In event of breaking the rules and causing significant damage to the server, we 
   * 1st Offence: Permanent ban.
 * GrayArea:&#x20;
   * 1st Offence: 7 day ban.
-  * 2st Offence: 30 day ban.
-  * 3st Offence: 90 day ban.
-  * 4st Offence: 180 day ban.
-  * 5st Permanent ban.
+  * 2nd Offence: 30 day ban.
+  * 3rd Offence: 90 day ban.
+  * 4th Offence: 180 day ban.
+  * 5th Permanent ban.
 
 {% hint style="info" %}
 These are case specific and staff will decide when they are appropriate. An example for a gray area ban is using a mod which is not allowed on our mod list. Ban durations can vary depending on the severity of the offense, but the list above will apply to most cases.
